@@ -1,16 +1,19 @@
-# giveon
+# Give On
 
-A new Flutter project.
+Give On is a Flutter-based NGO donation and service platform that connects donors
+with verified NGOs through a secure, location-aware system.
 
-## Getting Started
+## Features
+- User item posting (donations)
+- Verified NGO onboarding
+- Location-based discovery
+- Real-time request and claim system
+- Secure donation tracking
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Riverpod
+- Supabase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+🚧 In active development
