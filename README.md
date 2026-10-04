@@ -1,4 +1,4 @@
-# Give On
+# Dana
 
 Give On is a Flutter-based NGO donation and service platform that connects donors
 with verified NGOs through a secure, location-aware system.
